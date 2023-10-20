@@ -1,6 +1,6 @@
 # summ_it
 
-## Source code for EMNLP 2023 Findings paper: SummIt: Iterative Text Summarization via ChatGPT
+Source code for EMNLP 2023 Findings paper: SummIt: Iterative Text Summarization via ChatGPT
 
 
 ## References
